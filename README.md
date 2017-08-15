@@ -1,7 +1,7 @@
 # auctionHouse
 Command line based auction house for bidding
 
-This application is a JAVA-console based solution for Auction House. It makes use of JAVA-MySQL JDBC connection.
+This application is a JAVA console based application for Auction House. It makes use of JAVA-MySQL JDBC connection.
 
 How to run
 1. Run the MySQL file - AuctionHouseSchema.sql.
